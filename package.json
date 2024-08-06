@@ -1,0 +1,18 @@
+{
+  "name": "cli-alarm-clock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "commonjs",
+  "dependencies": {
+    "install": "^0.13.0",
+    "moment-timezone": "^0.5.45",
+    "npm": "^10.8.2"
+  }
+}
